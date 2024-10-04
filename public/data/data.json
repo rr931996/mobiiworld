@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "React JS",
+    "description": "A JavaScript library for building user interfaces.",
+    "details": "React JS is developed by Facebook and allows developers to create large web applications that can change data without reloading the page. Its component-based architecture promotes reusable UI components and makes it easy to manage the state of applications."
+  },
+  {
+    "id": 2,
+    "title": "Next JS",
+    "description": "A React framework for server-side rendering and generating static websites.",
+    "details": "Next JS enhances React by adding server-side rendering capabilities, enabling faster initial page loads and improved SEO. It also supports static site generation, API routes, and built-in CSS and Sass support, making it a powerful choice for modern web applications."
+  },
+  {
+    "id": 3,
+    "title": "Redux",
+    "description": "A predictable state container for JavaScript applications.",
+    "details": "Redux is often used with React to manage the application state in a centralized store, making state changes predictable and traceable. It provides a way to organize and manage state through actions, reducers, and a store, enhancing the maintainability of large applications."
+  },
+  {
+    "id": 4,
+    "title": "REST API",
+    "description": "An architectural style for designing networked applications.",
+    "details": "REST (Representational State Transfer) APIs allow different systems to communicate over HTTP, using standard methods such as GET, POST, PUT, and DELETE. RESTful services are stateless and can handle a variety of data formats, typically returning data in JSON. This makes them ideal for web services."
+  },
+  {
+    "id": 5,
+    "title": "SQL",
+    "description": "A standardized language for managing relational databases.",
+    "details": "SQL (Structured Query Language) is used for querying, updating, and managing data stored in relational databases. It allows developers to perform operations like creating tables, inserting data, updating records, and retrieving data using complex queries, ensuring data integrity and efficient access."
+  }
+]
